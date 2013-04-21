@@ -69,7 +69,7 @@ QQ:	250047953
 Email:	laufin(at)qq.com  
 主页:	http://www.liufuling.cn  
 博客园:	http://foolin.cnblogs.com/  
-github: http://www.github.com/laufin  
+github: https://github.com/laufin/ling.pager  
 
 
 
