@@ -22,7 +22,7 @@ LingPager2.0是ASP.NET分页控件，支持事件、非事件，附带CSS样式�
 
 ## 下载
 
-https://github.com/kindsoft/kindeditor
+https://github.com/laufin/ling.pager
 
 ## 使用
 
